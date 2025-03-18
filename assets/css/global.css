@@ -771,7 +771,7 @@ input[type="submit"],
     line-height: var(--fs-21);
     text-transform: capitalize;
     color: var(--color-white-fixed);
-    background: var(--color-one);
+    background: #54f0ff00;
     border-width: 0px;
     -webkit-border-radius: 0px;
     -moz-border-radius: 0px;
@@ -895,7 +895,7 @@ input[type="submit"]:hover {
 /* Button Two */
 .btn-two:hover {
     background-color: var(--color-white-fixed);
-    color: var(--color-one);
+    color: #54f0ff;
 }
 
 .btn-two .btn-wrap {

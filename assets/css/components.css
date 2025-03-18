@@ -319,7 +319,7 @@ Ready Components Stylesheet
     content: '';
     position: absolute;
     top: 50%;
-    width: 400px;
+    width: 374px;
     height: 1px;
     background-color: rgba(var(--color-white-fixed-rgb), 0.3);
 }
@@ -2457,11 +2457,11 @@ Ready Components Stylesheet
 }
 
 .wptb-icon-box1 .wptb-item--description {
-    font-size: 22px;
+    font-size: 20px;
     font-style: normal;
     font-weight: var(--fw-light);
     line-height: 34px;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     margin-bottom: 0px;
     word-break: break-word;
 }
@@ -2497,9 +2497,9 @@ Ready Components Stylesheet
     height: 20px;
     font-size: 10px;
     line-height: 20px;
-    color: var(--color-one);
+    color: #54f0ff;
     background-color: transparent;
-    border: 1px solid var(--color-one);
+    border: 1px solid #54f0ff;
     margin-right: 8px;
     box-shadow: none;
     border-radius: 100%;

@@ -710,7 +710,7 @@
   font-family: 'bootstrap-icons';
   font-size: 18px;
   
-  color: var(--color-one);
+  color: #54f0ff;
 }
 
 .mr_menu ul.main-menu > li ul li a::before {
@@ -754,14 +754,14 @@
   text-align: center;
   
   background: transparent;
-  color: var(--color-muted);
+  color: #54f0ff;
   cursor: pointer;
   z-index: 5;
 }
 
 .mr_menu ul.main-menu li.active > .submenu_opener,
 .mr_menu ul.main-menu li .nav_open > .submenu_opener {
-  color: var(--color-one);
+  color: #54f0ff;
 }
 
 .mr_menu ul.main-menu li .submenu_opener i {
