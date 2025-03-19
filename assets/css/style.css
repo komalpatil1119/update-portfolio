@@ -1623,3 +1623,36 @@ body.theme-style--olive {
     height: 400px;
 }
 
+.imgdiv {
+    position: relative;
+    margin-bottom: 30px;
+}
+.imgdiv i {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+@media screen and (max-width: 1199px) {
+    .header {
+        position: relative;
+    }
+    .wptb-slider .wptb-slider--image {
+        /* background-position: none; */
+        background-size: contain;
+    }
+    .wptb-slider.style2 {
+height: 75vh;
+    }
+}
+
+@media screen and (min-width: 1199px) {
+.wptb-slider .wptb-slider--image {
+    background-position: 50%;
+    background-size: cover;
+}
+}
+
+.lg-image {
+    padding-top: 50px;
+    padding-bottom: 150px;
+}

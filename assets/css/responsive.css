@@ -169,6 +169,21 @@
         text-underline-offset: 7px;
         margin-top: 0px;
     }
+.wptb-slider .wptb-bottom-pane {
+    height: 100px;
+    position: absolute;
+    bottom: 100px;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    display: flex
+;
+    justify-content: center;
+    align-items: center;
+}
+.mob-view{
+    margin-top: -60px;
+}
     .footer.style1::before {
         background-color: #ffffff00;
     }
