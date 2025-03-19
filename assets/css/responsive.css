@@ -172,7 +172,7 @@
 .wptb-slider .wptb-bottom-pane {
     height: 100px;
     position: absolute;
-    bottom: 100px;
+    bottom: 145px;
     left: 0;
     right: 0;
     z-index: 1;
@@ -182,7 +182,7 @@
     align-items: center;
 }
 .mob-view{
-    margin-top: -60px;
+    margin-top: -150px;
 }
     .footer.style1::before {
         background-color: #ffffff00;
