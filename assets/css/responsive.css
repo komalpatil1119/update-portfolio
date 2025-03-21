@@ -182,7 +182,7 @@
     align-items: center;
 }
 .mob-view{
-    margin-top: -150px;
+    margin-top: -170px;
 }
     .footer.style1::before {
         background-color: #ffffff00;
@@ -312,7 +312,9 @@
     .h1, h1{
         font-size: var(--fs-36);
     }
-    
+    .wptb-slider .wptb-swiper-dots.style2 {
+        display: none;
+    }
     .h2, h2{
         font-size: var(--fs-26);
     }
